@@ -1,0 +1,11 @@
+export const ROOT_USER = "user_management_root_user";
+export const SUB_USER = "user_management_sub_user";
+export const USER_DATA = "user_management_user_data";
+export const PRESENT = "present";
+export const SUCCESS = "success";
+export const NO_DATA = "no_data";
+export const ADD_USER = "add_user";
+export const EDIT_PROFILE = "edit_profile";
+export const USER_LIST = "users_list";
+export const USER_PROFILE = "user_profile";
+export const AUTH_CHANGE = "auth_change";
